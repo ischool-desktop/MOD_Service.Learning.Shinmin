@@ -1,0 +1,11 @@
+C:\Users\dylan\Desktop\公司\GitHub\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin\obj\Debug\K12.Service.Learning.Shinmin.csprojResolveAssemblyReference.cache
+C:\Users\dylan\Desktop\公司\GitHub\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin\obj\Debug\K12.Service.Learning.Shinmin.Properties.Resources.resources
+C:\Users\dylan\Desktop\公司\GitHub\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin\obj\Debug\K12.Service.Learning.Shinmin.MutiLearning.resources
+C:\Users\dylan\Desktop\公司\GitHub\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin\obj\Debug\K12.Service.Learning.Shinmin.csproj.GenerateResource.Cache
+C:\Users\dylan\Desktop\公司\GitHub\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin\bin\Debug\K12.Service.Learning.Shinmin.dll
+C:\Users\dylan\Desktop\公司\GitHub\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin\bin\Debug\K12.Service.Learning.Shinmin.pdb
+C:\Users\dylan\Desktop\公司\GitHub\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin\obj\Debug\K12.Service.Learning.Shinmin.dll
+C:\Users\dylan\Desktop\公司\GitHub\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin\obj\Debug\K12.Service.Learning.Shinmin.pdb
+C:\Users\dylan\Desktop\公司\ischool高中\addmodules\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin.dll
+C:\Users\dylan\Desktop\公司\ischool高中\addmodules\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin.pdb
+C:\Users\dylan\Desktop\公司\GitHub\MOD_Service.Learning.Shinmin\K12.Service.Learning.Shinmin\obj\Debug\K12.Service.Learning.Shinmin.LearningSchoolStatistics.resources
